@@ -11,4 +11,4 @@ git push origin master 等于 git push master origin : master
 if 
 	git remote add MyAndroid git@github.com:jxcyly1985/MyAndroidApp.git
 	
-	git push MyAndroid  等于 git push MyAndroid master 等于 git push MyAndroid master : master
+	git push MyAndroid  等于 git push MyAndroid master 等于 git push MyAndroid master:master
