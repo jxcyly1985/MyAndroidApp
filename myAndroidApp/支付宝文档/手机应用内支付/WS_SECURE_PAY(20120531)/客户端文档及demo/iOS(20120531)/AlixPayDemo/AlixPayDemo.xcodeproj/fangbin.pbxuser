@@ -1,0 +1,759 @@
+// !$*UTF8*$!
+{
+	159671F313E908180059ADF2 /* AlixPayDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 644}}";
+			sepNavSelRange = "{425, 0}";
+			sepNavVisRange = "{0, 476}";
+		};
+	};
+	159671F413E908180059ADF2 /* AlixPayDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1552, 3800}}";
+			sepNavSelRange = "{1566, 0}";
+			sepNavVisRange = "{1066, 1159}";
+		};
+	};
+	159671F513E908180059ADF2 /* AlixPayDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 760}}";
+			sepNavSelRange = "{687, 0}";
+			sepNavVisRange = "{54, 705}";
+		};
+	};
+	159671F613E908180059ADF2 /* AlixPayDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 5301}}";
+			sepNavSelRange = "{1280, 0}";
+			sepNavVisRange = "{513, 897}";
+		};
+	};
+	1596720A13E9083D0059ADF2 /* base64.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 3686}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1355}";
+		};
+	};
+	1596720C13E9083D0059ADF2 /* MD5DataSigner.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 667}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 258}";
+		};
+	};
+	1596720D13E9083D0059ADF2 /* MD5DataSigner.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 667}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 344}";
+		};
+	};
+	1596720F13E9083D0059ADF2 /* NSDataEx.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 3496}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1101}";
+		};
+	};
+	1596721013E9083D0059ADF2 /* openssl_wrapper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1192, 667}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 979}";
+		};
+	};
+	1596721113E9083D0059ADF2 /* openssl_wrapper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 3553}}";
+			sepNavSelRange = "{174, 0}";
+			sepNavVisRange = "{549, 1076}";
+		};
+	};
+	1596721213E9083D0059ADF2 /* RSADataSigner.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 667}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 333}";
+		};
+	};
+	1596721313E9083D0059ADF2 /* RSADataSigner.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1282, 2223}}";
+			sepNavSelRange = "{2393, 0}";
+			sepNavVisRange = "{1898, 1253}";
+		};
+	};
+	1596721513E9083D0059ADF2 /* RSADataVerifier.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1282, 2565}}";
+			sepNavSelRange = "{2779, 0}";
+			sepNavVisRange = "{2424, 1065}";
+		};
+	};
+	1596721813E9083D0059ADF2 /* asn1.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 26752}}";
+			sepNavSelRange = "{10171, 21}";
+			sepNavVisRange = "{9577, 961}";
+		};
+	};
+	1596725F13E9083D0059ADF2 /* DataSigner.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 667}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{0, 429}";
+		};
+	};
+	1596726013E9083D0059ADF2 /* DataSigner.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 667}}";
+			sepNavSelRange = "{297, 13}";
+			sepNavVisRange = "{0, 384}";
+		};
+	};
+	1596726113E9083D0059ADF2 /* DataVerifier.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 667}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 363}";
+		};
+	};
+	1596726213E9083D0059ADF2 /* DataVerifier.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 667}}";
+			sepNavSelRange = "{286, 15}";
+			sepNavVisRange = "{0, 374}";
+		};
+	};
+	159672D513E90A730059ADF2 /* AlixPay.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 667}}";
+			sepNavSelRange = "{191, 13}";
+			sepNavVisRange = "{0, 447}";
+		};
+	};
+	159672D613E90A730059ADF2 /* AlixPayOrder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 667}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 819}";
+		};
+	};
+	159672D713E90A730059ADF2 /* AlixPayResult.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 667}}";
+			sepNavSelRange = "{639, 0}";
+			sepNavVisRange = "{0, 646}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AlixPayDemo */ = {
+		activeExec = 0;
+		executables = (
+			71F0769113E9265E00CCD063 /* AlixPayDemo */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 71F0769113E9265E00CCD063 /* AlixPayDemo */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AlixPayDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AlixPayDemo */,
+		);
+		breakpoints = (
+			71C43D721429C56200EF7A46 /* AlixPayResult.m:35 */,
+			71596BC2149F17DB0014B2BB /* AlixPayDemoAppDelegate.m:51 */,
+			71596C09149F1BBA0014B2BB /* main.m:13 */,
+			71596D0F149F32FE0014B2BB /* AlixPayDemoViewController.m:131 */,
+			71596D15149F33330014B2BB /* AlixPayDemoViewController.m:123 */,
+		);
+		codeSenseManager = 71F076A313E9266800CCD063 /* Code sense */;
+		executables = (
+			71F0769113E9265E00CCD063 /* AlixPayDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					921,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					897,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					881,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 346062036;
+			PBXWorkspaceStateSaveDate = 346062036;
+		};
+		perUserProjectItems = {
+			71596C47149F20560014B2BB /* PBXTextBookmark */ = 71596C47149F20560014B2BB /* PBXTextBookmark */;
+			71596C6C149F22A50014B2BB /* PBXTextBookmark */ = 71596C6C149F22A50014B2BB /* PBXTextBookmark */;
+			71596CD1149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CD1149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CD2149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CD2149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CD3149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CD3149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CD4149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CD4149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CD5149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CD5149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CD6149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CD6149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CD7149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CD7149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CD8149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CD8149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CD9149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CD9149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CDA149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CDA149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CDB149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CDB149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CDC149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CDC149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596CDD149F2FEB0014B2BB /* PBXTextBookmark */ = 71596CDD149F2FEB0014B2BB /* PBXTextBookmark */;
+			71596D1E149F33B20014B2BB /* PBXTextBookmark */ = 71596D1E149F33B20014B2BB /* PBXTextBookmark */;
+			71596D34149F39A60014B2BB /* PBXTextBookmark */ = 71596D34149F39A60014B2BB /* PBXTextBookmark */;
+			71C43D7E1429C56800EF7A46 /* PBXTextBookmark */ = 71C43D7E1429C56800EF7A46 /* PBXTextBookmark */;
+			71C43D801429C56800EF7A46 /* PBXTextBookmark */ = 71C43D801429C56800EF7A46 /* PBXTextBookmark */;
+			71C43DFB1429D5E500EF7A46 /* PBXTextBookmark */ = 71C43DFB1429D5E500EF7A46 /* PBXTextBookmark */;
+			71C43DFC1429D5E500EF7A46 /* PBXTextBookmark */ = 71C43DFC1429D5E500EF7A46 /* PBXTextBookmark */;
+			71EE9148142B046C006E7C15 /* PBXTextBookmark */ = 71EE9148142B046C006E7C15 /* PBXTextBookmark */;
+			71EE914E142B046C006E7C15 /* PBXTextBookmark */ = 71EE914E142B046C006E7C15 /* PBXTextBookmark */;
+			71EE916F142B056B006E7C15 /* PBXBookmark */ = 71EE916F142B056B006E7C15 /* PBXBookmark */;
+			71EE92AB142B3BE5006E7C15 /* PBXBookmark */ = 71EE92AB142B3BE5006E7C15 /* PBXBookmark */;
+			71FCC1EF14A07E03007952C6 /* PBXTextBookmark */ = 71FCC1EF14A07E03007952C6 /* PBXTextBookmark */;
+			71FCC20814A07E6C007952C6 /* PBXTextBookmark */ = 71FCC20814A07E6C007952C6 /* PBXTextBookmark */;
+			71FCC21B14A07F62007952C6 /* PBXTextBookmark */ = 71FCC21B14A07F62007952C6 /* PBXTextBookmark */;
+			71FCC21C14A07F62007952C6 /* PlistBookmark */ = 71FCC21C14A07F62007952C6 /* PlistBookmark */;
+			71FCC21D14A07F62007952C6 /* PlistBookmark */ = 71FCC21D14A07F62007952C6 /* PlistBookmark */;
+		};
+		sourceControlManager = 71F076A213E9266800CCD063 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 644}}";
+			sepNavSelRange = "{331, 0}";
+			sepNavVisRange = "{0, 375}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* AlixPayDemo_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1702, 667}}";
+			sepNavSelRange = "{200, 7}";
+			sepNavVisRange = "{0, 361}";
+		};
+	};
+	71596BC2149F17DB0014B2BB /* AlixPayDemoAppDelegate.m:51 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 159671F413E908180059ADF2 /* AlixPayDemoAppDelegate.m */;
+		functionName = "-application:didFinishLaunchingWithOptions:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 51;
+		location = AlixPayDemo;
+		modificationTime = 345977658.388737;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	71596C09149F1BBA0014B2BB /* main.m:13 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 29B97316FDCFA39411CA2CEA /* main.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 13;
+		location = AlixPayDemo;
+		modificationTime = 345977658.412218;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	71596C47149F20560014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 331;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 0;
+	};
+	71596C6C149F22A50014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159671F313E908180059ADF2 /* AlixPayDemoAppDelegate.h */;
+		name = "AlixPayDemoAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 425;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	71596CD1149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596726113E9083D0059ADF2 /* DataVerifier.h */;
+		name = "DataVerifier.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	71596CD2149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596726213E9083D0059ADF2 /* DataVerifier.m */;
+		name = "DataVerifier.m: 17";
+		rLen = 15;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 0;
+	};
+	71596CD3149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596726013E9083D0059ADF2 /* DataSigner.m */;
+		name = "DataSigner.m: 16";
+		rLen = 13;
+		rLoc = 297;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	71596CD4149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596721013E9083D0059ADF2 /* openssl_wrapper.h */;
+		name = "openssl_wrapper.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 979;
+		vrLoc = 0;
+	};
+	71596CD5149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596721213E9083D0059ADF2 /* RSADataSigner.h */;
+		name = "RSADataSigner.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	71596CD6149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159672D513E90A730059ADF2 /* AlixPay.h */;
+		name = "AlixPay.h: 14";
+		rLen = 13;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 447;
+		vrLoc = 0;
+	};
+	71596CD7149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159672D613E90A730059ADF2 /* AlixPayOrder.h */;
+		name = "AlixPayOrder.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 819;
+		vrLoc = 0;
+	};
+	71596CD8149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159672D713E90A730059ADF2 /* AlixPayResult.h */;
+		name = "AlixPayResult.h: 26";
+		rLen = 0;
+		rLoc = 639;
+		rType = 0;
+		vrLen = 646;
+		vrLoc = 0;
+	};
+	71596CD9149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596720A13E9083D0059ADF2 /* base64.m */;
+		name = "base64.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1355;
+		vrLoc = 0;
+	};
+	71596CDA149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596720C13E9083D0059ADF2 /* MD5DataSigner.h */;
+		name = "MD5DataSigner.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 0;
+	};
+	71596CDB149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596720D13E9083D0059ADF2 /* MD5DataSigner.m */;
+		name = "MD5DataSigner.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 344;
+		vrLoc = 0;
+	};
+	71596CDC149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596720F13E9083D0059ADF2 /* NSDataEx.m */;
+		name = "NSDataEx.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1101;
+		vrLoc = 0;
+	};
+	71596CDD149F2FEB0014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596721113E9083D0059ADF2 /* openssl_wrapper.m */;
+		name = "openssl_wrapper.m: 11";
+		rLen = 0;
+		rLoc = 174;
+		rType = 0;
+		vrLen = 1076;
+		vrLoc = 549;
+	};
+	71596D0F149F32FE0014B2BB /* AlixPayDemoViewController.m:131 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 159671F613E908180059ADF2 /* AlixPayDemoViewController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 131;
+		location = AlixPayDemo;
+		modificationTime = 345977658.4422621;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	71596D15149F33330014B2BB /* AlixPayDemoViewController.m:123 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 159671F613E908180059ADF2 /* AlixPayDemoViewController.m */;
+		functionName = "-tableView:numberOfRowsInSection:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 123;
+		location = AlixPayDemo;
+		modificationTime = 345977658.4732201;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	71596D1E149F33B20014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159671F513E908180059ADF2 /* AlixPayDemoViewController.h */;
+		name = "AlixPayDemoViewController.h: 34";
+		rLen = 0;
+		rLoc = 687;
+		rType = 0;
+		vrLen = 705;
+		vrLoc = 54;
+	};
+	71596D34149F39A60014B2BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* AlixPayDemo_Prefix.pch */;
+		name = "AlixPayDemo_Prefix.pch: 10";
+		rLen = 7;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	71C43D6D1429A97B00EF7A46 /* AlixPayResult.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AlixPayResult.m;
+		path = "/Users/fangbin/Desktop/iOS(20110922)/AlixPayDemo/src/AlixPayResult.m";
+		sourceTree = "<absolute>";
+	};
+	71C43D721429C56200EF7A46 /* AlixPayResult.m:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 71C43D6D1429A97B00EF7A46 /* AlixPayResult.m */;
+		functionName = "-initWithString:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 35;
+		modificationTime = 345977737.36072;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	71C43D7E1429C56800EF7A46 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 71C43D7F1429C56800EF7A46 /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 264";
+		rLen = 38;
+		rLoc = 10513;
+		rType = 0;
+		vrLen = 1060;
+		vrLoc = 9833;
+	};
+	71C43D7F1429C56800EF7A46 /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	71C43D801429C56800EF7A46 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 71C43D811429C56800EF7A46 /* NSString.h */;
+		name = "NSString.h: 105";
+		rLen = 18;
+		rLoc = 5225;
+		rType = 0;
+		vrLen = 1656;
+		vrLoc = 4282;
+	};
+	71C43D811429C56800EF7A46 /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	71C43DFB1429D5E500EF7A46 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596721813E9083D0059ADF2 /* asn1.h */;
+		name = "asn1.h: 275";
+		rLen = 21;
+		rLoc = 10171;
+		rType = 0;
+		vrLen = 961;
+		vrLoc = 9577;
+	};
+	71C43DFC1429D5E500EF7A46 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 71C43DFD1429D5E500EF7A46 /* NSString.h */;
+		name = "NSString.h: 126";
+		rLen = 4;
+		rLoc = 7030;
+		rType = 0;
+		vrLen = 2259;
+		vrLoc = 5863;
+	};
+	71C43DFD1429D5E500EF7A46 /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	71EE9148142B046C006E7C15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596725F13E9083D0059ADF2 /* DataSigner.h */;
+		name = "DataSigner.h: 20";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 429;
+		vrLoc = 0;
+	};
+	71EE914E142B046C006E7C15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596721513E9083D0059ADF2 /* RSADataVerifier.m */;
+		name = "RSADataVerifier.m: 114";
+		rLen = 0;
+		rLoc = 2779;
+		rType = 0;
+		vrLen = 1065;
+		vrLoc = 2424;
+	};
+	71EE916F142B056B006E7C15 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 159671FD13E908250059ADF2 /* icon@2x.png */;
+	};
+	71EE92AB142B3BE5006E7C15 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 159671FE13E908250059ADF2 /* icon.png */;
+	};
+	71F0769113E9265E00CCD063 /* AlixPayDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AlixPayDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	71F076A213E9266800CCD063 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	71F076A313E9266800CCD063 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	71FCC1EF14A07E03007952C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1596721313E9083D0059ADF2 /* RSADataSigner.m */;
+		name = "RSADataSigner.m: 98";
+		rLen = 0;
+		rLoc = 2393;
+		rType = 0;
+		vrLen = 1253;
+		vrLoc = 1898;
+	};
+	71FCC20814A07E6C007952C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159671F613E908180059ADF2 /* AlixPayDemoViewController.m */;
+		name = "AlixPayDemoViewController.m: 58";
+		rLen = 0;
+		rLoc = 1280;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 513;
+	};
+	71FCC21B14A07F62007952C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159671F413E908180059ADF2 /* AlixPayDemoAppDelegate.m */;
+		name = "AlixPayDemoAppDelegate.m: 57";
+		rLen = 0;
+		rLoc = 1566;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 1066;
+	};
+	71FCC21C14A07F62007952C6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AlixPayDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/fangbin/Desktop/iOS(20110922)/AlixPayDemo/AlixPayDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	71FCC21D14A07F62007952C6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AlixPayDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/fangbin/Desktop/iOS(20110922)/AlixPayDemo/AlixPayDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	8D1107310486CEB800E47090 /* AlixPayDemo-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1197}}";
+			sepNavSelRange = "{2172, 205}";
+			sepNavVisRange = "{912, 1483}";
+			sepNavWindowFrame = "{{15, 133}, {1338, 740}}";
+		};
+	};
+}

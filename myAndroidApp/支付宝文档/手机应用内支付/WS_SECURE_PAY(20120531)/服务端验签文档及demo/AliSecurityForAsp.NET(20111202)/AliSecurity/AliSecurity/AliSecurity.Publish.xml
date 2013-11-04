@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\WorkSpace\IIS" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/AliSecurityNotify.pdb" publishTime="09/14/2011 16:55:12" />
+    <file relUrl="Web.config" publishTime="09/14/2011 16:55:13" />
+    <file relUrl="bin/AliSecurityNotify.dll" publishTime="09/14/2011 16:55:12" />
+    <file relUrl="Trade.aspx" publishTime="09/13/2011 14:59:35" />
+    <file relUrl="CallBack.aspx" publishTime="09/13/2011 13:40:43" />
+    <file relUrl="Notify.aspx" publishTime="09/13/2011 13:51:09" />
+  </publishProfile>
+</publishData>

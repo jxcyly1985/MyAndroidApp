@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <Button android:id="@+id/id_add_block_callnumber_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/string_add_blocked_nubmer_btn"></Button>"
+    
+    <ListView android:id="@+id/id_block_callnumber_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="@android:color/black"
+        android:background="#ff123456"></ListView>
+	
+</LinearLayout>

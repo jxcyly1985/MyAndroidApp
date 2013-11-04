@@ -1,0 +1,5 @@
+E:\WorkSpace\C#\AliSecurityNotify\AliSecurityNotify\bin\AliSecurityNotify.dll
+E:\WorkSpace\C#\AliSecurityNotify\AliSecurityNotify\bin\AliSecurityNotify.pdb
+E:\WorkSpace\C#\AliSecurityNotify\AliSecurityNotify\obj\Debug\ResolveAssemblyReference.cache
+E:\WorkSpace\C#\AliSecurityNotify\AliSecurityNotify\obj\Debug\AliSecurityNotify.dll
+E:\WorkSpace\C#\AliSecurityNotify\AliSecurityNotify\obj\Debug\AliSecurityNotify.pdb

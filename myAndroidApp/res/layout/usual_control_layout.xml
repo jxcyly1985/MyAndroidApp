@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView   xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+     android:layout_height="fill_parent">
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/white"
+    android:padding="10dp"    
+    android:id="@+id/id_take_control_container_linearlayout">
+    
+   <TextView android:id="@+id/id_usual_ctrl_shadow_text_view_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:text="精品订阅客户端"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="1"
+        android:gravity="right"
+        android:shadowColor="@android:color/black"
+        android:textColor="@color/black"
+        android:lineSpacingExtra="0dp"
+        android:padding="0dp"></TextView>
+   
+   <TextView android:id="@+id/id_usual_ctrl_shadow_text_view_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12px"
+        android:text="精品订阅客户端"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="1"
+        android:gravity="right"
+        android:shadowColor="@android:color/black"
+        android:textColor="@color/black"
+        android:lineSpacingExtra="0dp"
+        android:padding="0dp"></TextView>
+   
+   <TextView android:id="@+id/id_usual_ctrl_shadow_text_view_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="8sp"
+        android:text="精品订阅客户端"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="1"
+        android:gravity="right"
+        android:shadowColor="@android:color/black"
+    	android:textColor="@color/black"
+        android:lineSpacingExtra="0dp"
+        android:padding="0dp"></TextView>
+   <TextView android:id="@+id/id_usual_ctrl_shadow_text_view_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="8px"
+        android:text="精品订阅客户端"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="1"
+        android:gravity="right"
+        android:shadowColor="@android:color/black"
+       	android:textColor="@color/black"
+        android:lineSpacingExtra="0dp"
+        android:padding="0dp"></TextView>
+   <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <!-- 除非是正方形 否则centerCrop会把padding失效 -->
+   <ImageView 
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:background="@drawable/content_list_bg_pic_shadow"
+       android:scaleType="centerCrop"
+       android:padding="4dp"
+       android:src="@drawable/public_avatar_default_big">
+   </ImageView>
+   
+    <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <ImageView 
+       android:layout_width="71dp"
+       android:layout_height="71dp"
+       android:background="@drawable/content_list_bg_pic_shadow"
+       android:scaleType="fitXY"
+       android:padding="4dp"
+       android:src="@drawable/imageview_test_1">
+   </ImageView>
+   <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <ImageView 
+       android:layout_width="71dp"
+       android:layout_height="71dp"
+       android:background="@drawable/content_list_bg_pic_shadow"
+       android:scaleType="centerCrop"
+       android:padding="4dp"
+       android:src="@drawable/imageview_test_1">
+   </ImageView>
+   
+   <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <ImageView 
+       android:layout_width="71dp"
+       android:layout_height="71dp"
+       android:background="@drawable/content_list_bg_pic_shadow"
+       android:scaleType="fitXY"
+       android:padding="4dp"
+       android:src="@drawable/imageview_test_2">
+   </ImageView>
+   
+     <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <ImageView 
+       android:layout_width="71dp"
+       android:layout_height="71dp"
+       android:background="@drawable/content_list_bg_pic_shadow"
+       android:scaleType="centerCrop"
+       android:padding="4dp"
+       android:src="@drawable/imageview_test_2">
+   </ImageView>
+   
+   
+   <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <ImageView 
+       android:layout_width="79dp"
+       android:layout_height="79dp"
+       android:background="@drawable/content_list_bg_pic_shadow"
+       android:scaleType="fitXY"
+       android:padding="4dp"
+       android:src="@drawable/imageview_test_3">
+   </ImageView>
+   
+   <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <ImageView 
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:background="@drawable/content_list_bg_pic_shadow"
+       android:scaleType="fitXY"
+       android:padding="4dp"
+       android:src="@drawable/imageview_test_3">
+   </ImageView>
+   
+   <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <ImageView 
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:background="@drawable/content_list_bg_pic_shadow_2"
+       android:scaleType="fitXY"
+       android:padding="4dp"
+       android:src="@drawable/imageview_test_3">
+   </ImageView>
+   
+   <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <ImageView 
+       android:layout_width="71dp"
+       android:layout_height="71dp"
+       android:background="@drawable/content_list_bg_pic_shadow"
+       android:scaleType="fitXY"
+       android:padding="4dp">
+   </ImageView>
+   
+   <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <ImageView 
+       android:layout_width="60dp"
+       android:layout_height="60dp"
+       android:background="@drawable/content_list_bg_pic_shadow"
+       android:scaleType="fitXY"
+       android:padding="4dp">
+   </ImageView>
+   
+ <LinearLayout android:layout_width="fill_parent"
+       android:layout_height="10dp"></LinearLayout>
+   
+   <ImageView 
+       android:layout_width="80dp"
+       android:layout_height="80dp"
+       android:background="@drawable/content_list_bg_pic_shadow"
+       android:scaleType="fitXY"
+       android:padding="4dp">
+   </ImageView>
+   
+    
+    <!-- 非9png拉升之后会变形 
+    <Button android:id="@+id/id_ususal_ctrl_no_9_png_button"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@drawable/about_ok_btn_0"
+        android:text="按钮">
+    </Button>
+    -->
+
+    <!-- 9png拉升不变形 
+     <Button android:id="@+id/id_ususal_ctrl_9_png_button"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@drawable/ok_btn_9"
+        android:text="按钮">
+    </Button>
+    -->
+    
+    <!-- 9png拉升不变形 
+    <Button android:id="@+id/id_ususal_ctrl_9_png_button"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@drawable/about_ok_btn_2"
+        android:text="按钮">
+    </Button>
+    -->
+
+    <!-- 9png拉升不变形 
+     <Button android:id="@+id/id_ususal_ctrl_9_png_button_1"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@drawable/about_ok_btn_1"
+        android:text="按钮">
+    </Button>
+    -->
+     
+    <!-- 9png拉升不变形 
+    <Button android:id="@+id/id_ususal_ctrl_9_png_button_3"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@drawable/about_ok_btn_3"
+        android:text="按钮">
+    </Button>
+    -->
+
+    <!-- 9png拉升不变形 
+     <Button android:id="@+id/id_ususal_ctrl_9_png_button"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@drawable/about_ok_btn_4"
+        android:text="按钮">
+    </Button>     
+    -->
+    
+</LinearLayout>
+ </ScrollView>

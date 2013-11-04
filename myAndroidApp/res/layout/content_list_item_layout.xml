@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <TextView android:id="@+id/id_complete_count_text_view"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="#ffffffff"
+        android:text="1"
+        android:gravity="right">
+    </TextView>
+    
+    <ListView android:id="@+id/id_content_item_list_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#ff000000"
+        android:divider="@null"
+        android:listSelector="@null"></ListView>"
+    
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+    
+    <LinearLayout android:id="@+id/id_move_rectange_container_ll"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1">
+    </LinearLayout>
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+          	<Button android:id="@+id/id_change_pos_btn"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:text="改变位置">
+ 			</Button>
+ 			<TextView
+ 			    android:layout_width="20dip"
+ 			    android:layout_height="wrap_content"></TextView>
+ 			<Button android:id="@+id/id_restore_pos_btn"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:text="还原位置">
+ 			</Button>
+    </LinearLayout>
+  
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:background="@drawable/bg_tab">"
+    
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|center_vertical">
+	        <Button
+			    android:id="@+id/id_animation_switch_tab1"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:background="@drawable/bg_left_tab"
+			    android:textColor="@color/snow"
+			    android:textSize="16sp"></Button>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_gravity="right|center_vertical">
+	        <Button
+			    android:id="@+id/id_animation_switch_tab2"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:background="@drawable/bg_right_tab"
+			    android:textColor="@color/snow"
+			    android:textSize="16sp"></Button>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/id_flipbutton_wrapper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_gravity="left|center_vertical"
+		android:paddingLeft="1dp"
+		android:paddingRight="1dp">
+        <com.src.ui.FlipButton
+		    android:id="@+id/id_animation_switch_tab3"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/ic_tab_select"
+		    android:textColor="@color/snow"
+		    android:textSize="16sp"></com.src.ui.FlipButton>
+        
+    </LinearLayout>
+		
+	
+</FrameLayout>

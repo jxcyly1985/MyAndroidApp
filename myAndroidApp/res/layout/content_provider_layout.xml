@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <Button android:id="@+id/id_show_all_content_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/string_show_media_iamge">
+    </Button>
+    
+    <ListView  android:id="@+id/id_show_all_content_list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        
+    </ListView>"
+
+</LinearLayout>

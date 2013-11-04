@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>appbacktest</display-name>
+  <welcome-file-list>
+    <welcome-file>trade.jsp</welcome-file>
+  </welcome-file-list>
+	<servlet>
+      <servlet-name>RSATrade</servlet-name>
+      <servlet-class>com.alipay.client.trade.RSATrade</servlet-class>
+    </servlet>
+	
+	<servlet-mapping> 
+		<servlet-name>RSATrade</servlet-name> 
+		<url-pattern>/servlet/RSATrade</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+      <servlet-name>RSANotifyReceiver</servlet-name>
+      <servlet-class>com.alipay.client.notify.RSANotifyReceiver</servlet-class>
+    </servlet>
+	
+	<servlet-mapping> 
+		<servlet-name>RSANotifyReceiver</servlet-name> 
+		<url-pattern>/servlet/RSANotifyReceiver</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+      <servlet-name>CallBackReceiver</servlet-name>
+      <servlet-class>com.alipay.client.callback.RSACallBack</servlet-class>
+    </servlet>
+	
+	<servlet-mapping> 
+		<servlet-name>CallBackReceiver</servlet-name> 
+		<url-pattern>/servlet/callback</url-pattern>
+	</servlet-mapping>
+	
+</web-app>

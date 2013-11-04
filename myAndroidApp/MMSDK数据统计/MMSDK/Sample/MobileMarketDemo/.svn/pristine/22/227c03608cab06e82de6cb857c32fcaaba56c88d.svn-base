@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.richinfo.mmdemo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="5" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="MMSDKdemoJ"
+        android:name=".MobileTestApplication" >
+        <activity
+            android:label="MMsdkDEM"
+            android:name=".FirstActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SecondActivity" >
+        </activity>
+        <activity android:name=".ThirdActivity" >
+        </activity>
+<!-- mm300002441166 5e686e31527015049e000002 -->
+        <meta-data
+            android:name="MOBILE_APPKEY"
+            android:value="mm300002503346" >
+        </meta-data>
+        <meta-data
+            android:name="MOBILE_CHANNEL"
+            android:value="中国移动" >
+        </meta-data>
+    </application>
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" >
+    </uses-permission>
+
+</manifest>

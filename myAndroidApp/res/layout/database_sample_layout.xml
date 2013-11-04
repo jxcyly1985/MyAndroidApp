@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <Button android:id="@+id/id_create_database_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="创建数据库">
+    </Button>
+    
+    <Button android:id="@+id/id_create_table_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="创建表">
+    </Button>
+    
+    <Button android:id="@+id/id_insert_data_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="插入数据">
+    </Button>
+    
+    <Button android:id="@+id/id_insert_data_use_transaction_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="事务插入数据">
+    </Button>
+    
+    <Button android:id="@+id/id_query_data_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="查询数据">
+    </Button>
+    
+    
+    <Button android:id="@+id/id_update_data_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="更新数据">
+    </Button>
+    
+    <Button android:id="@+id/id_delete_data_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="删除数据">
+    </Button>"
+    
+    <Button android:id="@+id/id_drop_table_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="删除表">
+    </Button>
+
+    <Button android:id="@+id/id_delete_database_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="删除数据库">
+    </Button>
+</LinearLayout>

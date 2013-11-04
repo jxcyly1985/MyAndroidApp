@@ -1,0 +1,5 @@
+E:\WorkSpace\C#\AliSecurity\AliSecurity\bin\AliSecurity.dll
+E:\WorkSpace\C#\AliSecurity\AliSecurity\bin\AliSecurity.pdb
+E:\WorkSpace\C#\AliSecurity\AliSecurity\obj\Debug\ResolveAssemblyReference.cache
+E:\WorkSpace\C#\AliSecurity\AliSecurity\obj\Debug\AliSecurity.dll
+E:\WorkSpace\C#\AliSecurity\AliSecurity\obj\Debug\AliSecurity.pdb

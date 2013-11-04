@@ -1,0 +1,7 @@
+1.ListActivity 用于测试activity周期
+2.
+在clone完之后，git会自动为此远程仓库命名为origin，origin只是为远程仓库起的一个别名；并且git会建立一个指向远程仓库origin的master 分支的标识，git使用(远程仓库名)/(分支名) 这样的形式表示远程分支，所以origin/master指向的是一个我们clone到本地的远程分支，被代表为远程创仓库和分支。同时，git会建立一个本地master分支，它指向的是从远程仓库的分支下载到本地的副本。可以通过下面的命令查看分支：
+
+$ git branch -a
+* master
+  remotes/origin/master

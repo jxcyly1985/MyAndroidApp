@@ -1,0 +1,34 @@
+<html>
+	<head>
+	<meta http-equiv=Content-Type content="text/html;charset=utf-8">
+	<style type="text/css">
+		body {background-color:#f7f7f7; line-height:200%}
+		p {font-size:26px;color:#4c4c4c}
+		div.sourcelink{padding:20px;text-align:center}
+		button.sourcelinkbtn {font-size:31px; padding-left:50px; padding-right:50px;padding-top:10px; padding-bottom:10px;color:#8e8e8e; width:210px}
+		img {padding-top:16px; padding-bottom:16px; max-width=100%; min-width: 20%}
+	</style>
+	<script type="text/javascript">
+		function myfunction2(element){openIntent.open(element.id, element.src);}
+		function changefont(var size){
+			
+		}
+	</script>
+		</head>
+		<body>
+			<p> 本版绘图 蒋立冬 李媛</p>
+			<p>  </p>
+			<p> 　　罗汉拳为少林功夫中的精粹，禅宗罗汉拳讲究拳禅一体，功夫与技术相结合，有养生与技击双重作用。少林罗汉拳套路众多，在此图解小罗汉拳第五式。</p>
+			<p> 　　</p>
+			<p> 第五式 双风贯耳</p>
+			<p> 　　1.接紫燕双飞收式。</p>
+			<p> 　　2.左脚提起向后收回再前跨，屈膝，右腿绷直，身体成左弓步。两掌握拳收回，握于腰间。</p>
+			<p> 　　3.两拳由腰间向身前冲出，两臂伸直，两拳略高于肩。目平视前方。</p>
+			<p>  </p>
+			<p>  </p>
+			<p> 录入编辑：薛冬霞</p>
+			<div class="sourcelink">
+				<button class="sourcelinkbtn" type="button" onclick="window.open('http://subscribe.mail.10086.cn/subscribe/readAll.do?columnId=157&itemId=203799')">查看原文</button>
+			</div>
+		</body>
+<html>

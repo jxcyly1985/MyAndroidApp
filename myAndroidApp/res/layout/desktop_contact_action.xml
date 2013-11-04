@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/id_animation_ll"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/desktop_pop"
+  android:orientation="vertical">
+  <LinearLayout
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:orientation="vertical"
+  	android:paddingTop="30dip"
+  	android:paddingLeft="114dip">
+  	<ImageView	android:id="@+id/dc_personal_info_dv"
+	  	android:layout_width="wrap_content"
+	  	android:layout_height="wrap_content"
+	  	android:paddingLeft="12dip"
+	  	android:src="@drawable/desktop_contact_pop_action_selector_1"
+	  	>
+  	</ImageView>
+  	<TextView
+  		android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"
+  		android:paddingLeft="6dip"
+  		android:text="@string/destop_contact_pop_info"
+  		android:textColor="#3b5066"
+  		android:id="@+id/desktop_contact_information_tv">
+  	</TextView>
+  </LinearLayout>
+  	
+  <LinearLayout
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:orientation="horizontal"
+	android:paddingTop="10dip">
+  	<LinearLayout
+  		android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"
+  		android:orientation="vertical"
+  		android:paddingLeft="30dip"
+  		android:paddingTop="35dip">
+  		<ImageView	android:id="@+id/dc_call_phone_iv"
+  		    android:paddingLeft="6dip"
+	  		android:layout_width="wrap_content"
+	  		android:layout_height="wrap_content"
+	  		android:src="@drawable/desktop_contact_pop_action_selector_2">
+  		</ImageView>
+  		<TextView
+	  		android:layout_width="wrap_content"
+	  		android:layout_height="wrap_content"
+	  		android:text="@string/desktop_contact_pop_calling"
+	  		android:textColor="#3b5066">
+  		</TextView>
+  	</LinearLayout>
+  	<LinearLayout
+  		android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"
+  		android:paddingLeft="15dip">
+  		<LinearLayout
+  			android:layout_width="100dip"
+  			android:layout_height="100dip"
+  			android:background="@drawable/public_head_portrait_big"
+  			android:paddingLeft="4dip"
+  			android:paddingTop="4dip"
+  			android:paddingRight="4dip"
+  			android:paddingBottom="4dip">
+  			<ImageView	android:id="@+id/dc_portrait_iv"
+		  		android:layout_width="fill_parent"
+		  		android:layout_height="fill_parent"
+		  		android:layout_gravity="center"
+		  		android:scaleType="fitXY"
+		  		android:src="@drawable/public_avatar_default_samll">
+  			</ImageView>
+  		</LinearLayout>	
+  	</LinearLayout>
+  	
+  	<LinearLayout
+  		android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"
+  		android:orientation="vertical"
+  		android:paddingLeft="30dip"
+  		android:paddingTop="35dip">
+	  	<ImageView	android:id="@+id/dc_send_msg_iv"
+	  		android:layout_width="wrap_content"
+	  		android:layout_height="wrap_content"
+	  		android:src="@drawable/desktop_contact_pop_action_selector_3">
+	  	</ImageView>
+	  	<TextView
+	  		android:layout_width="wrap_content"
+	  		android:layout_height="wrap_content"
+	  		android:text="@string/desktop_contact_pop_send_msg"
+	  		android:textColor="#3b5066">
+  		</TextView>
+  	</LinearLayout>
+  </LinearLayout>
+  
+  <LinearLayout
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:orientation="vertical"
+  	android:paddingTop="20dip"
+  	android:paddingLeft="120dip"
+  	android:layout_gravity="bottom">
+  	<FrameLayout
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:paddingLeft="6dip">
+  		<ImageView	android:id="@+id/dc_msg_record_iv"
+	  		android:layout_width="wrap_content"
+	  		android:layout_height="wrap_content"
+	  		android:src="@drawable/desktop_contact_pop_action_selector_4">
+  		</ImageView>
+  		<ImageView	android:id="@+id/dc_contact_news_tip_iv"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="top|right"
+		    android:src="@drawable/information_center_paopao_more"
+		    android:visibility="gone">
+	    </ImageView>
+ 	</FrameLayout>
+  	
+  	<TextView
+	  		android:layout_width="wrap_content"
+	  		android:layout_height="wrap_content"
+	  		android:text="@string/desktop_contact_pop_msg_record"
+	  		android:textColor="#3b5066">
+  	</TextView>
+  </LinearLayout>
+</LinearLayout>

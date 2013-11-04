@@ -1,0 +1,72 @@
+/*
+============================================================================
+ Name		: AppDemo.mmp
+ Author	  : Mark15021
+ Copyright   : Your copyright notice
+ Description : This is the project specification file for AppDemo.
+============================================================================
+*/
+
+
+TARGET			AppDemo_0xED46D97D.exe
+TARGETTYPE		exe
+UID		  0x100039CE 0xED46D97D
+
+SOURCEPATH		..\src
+SOURCE			AppDemo.cpp
+SOURCE			AppDemoApplication.cpp
+SOURCE			AppDemoAppView.cpp
+SOURCE			AppDemoAppUi.cpp
+SOURCE			AppDemoDocument.cpp
+
+SOURCEPATH		..\data
+
+START RESOURCE	AppDemo.rss
+HEADER
+TARGET AppDemo_0xED46D97D
+TARGETPATH resource\apps
+END //RESOURCE
+
+START RESOURCE	AppDemo_reg.rss
+TARGET AppDemo_0xED46D97D_reg
+TARGETPATH 	  \private\10003a3f\apps
+END //RESOURCE
+
+
+
+USERINCLUDE	   ..\inc
+USERINCLUDE    ..\help
+
+SYSTEMINCLUDE	 \epoc32\include
+SYSTEMINCLUDE	 \epoc32\include\ecom
+SYSTEMINCLUDE     \epoc32\include\http
+SYSTEMINCLUDE     \epoc32\include\libc
+
+LIBRARY		   euser.lib
+LIBRARY		   apparc.lib
+LIBRARY		   cone.lib
+LIBRARY		   eikcore.lib
+LIBRARY		   avkon.lib
+LIBRARY		   commonengine.lib
+LIBRARY		   efsrv.lib 
+LIBRARY		   estor.lib
+LIBRARY        aknnotify.lib
+LIBRARY        hlplch.lib
+LIBRARY        bafl.lib aknskins.lib aknskinsrv.lib eikcoctl.lib eikctl.lib inetprotutil.lib 
+LIBRARY        ecom.lib hash.lib
+LIBRARY        esock.lib esocksvr.lib commdb.lib http.lib bafl.lib charconv.lib flogger.lib inetprotutil.lib eikcoctl.lib eikctl.lib ecom.lib apgrfx.lib swinstcli.lib
+LIBRARY        estlib.lib
+STATICLIBRARY        RsaLib.lib
+LANG SC
+
+VENDORID	  	  0
+SECUREID		  0xED46D97D
+CAPABILITY	  	  NetworkServices ReadDeviceData ReadUserData TrustedUI WriteDeviceData WriteUserData
+
+#ifdef ENABLE_ABIV2_MODE
+DEBUGGABLE_UDEBONLY
+#endif
+// End of File
+
+STATICLIBRARY SecurePayHelper.lib
+

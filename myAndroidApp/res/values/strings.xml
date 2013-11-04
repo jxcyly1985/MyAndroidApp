@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidApp!</string>
+    <string name="app_name">myAndroidApp</string>
+    
+    <string name="androidApp">Activity/androidApp</string>
+    <string name="contentProvider">Activity/contentProvider</string>
+    <string name="database">Activity/databaseActivity</string>
+	<string name="drag">Activity/drag</string>
+	<string name="flipper">Activity/flipper</string>
+	<string name="loginmediator">Pattern/loginmediator(mediator)</string>
+	<string name="moverectangle">Pattern/moverectangle(state)</string>
+	<string name="simpleflipper">Activity/simpleflipper</string>
+	<string name="listactivity">Activity/listactivity</string>
+	<string name="webviewactivity">Activity/webviewactivity</string>
+	<string name="pathtestactivity">Activity/pathTestActivity</string>
+	<string name="servicetestactivity">Activity/servicetestActivity</string>
+	<string name="usualCtrlactivity">Activity/usualCtrlActivity</string>
+	<string name="sinaweiboshareActivity">Activity/SinaWeiboActivity</string>
+	<string name="onInterceptEventTestActivity">Activity/onInterceptEventTestActivity</string>
+	<string name="launchmodestest">Activity/LaunchModesTest</string>
+	<string name="httpnettest">Activity/HttpNetTest</string>
+	<string name="statichandlertest">Activity/staticHandlerTest</string>
+	<string name="richeditActivity">Activity/richEditActivity</string>
+	<string name="threadpoolActivity">Activity/threadpoolActivity</string>
+	<string name="myScrollerActivity">Activity/myScrollerActivity</string>
+	<string name="myScrollerActivity2">Activity/ScrollerTestActivity</string>
+	<string name="myScrollTabActivity">Activity/ScrollTabActivity</string>
+	<string name="mymultiScreenActivity">Activity/MultiScreenActivity</string>
+	<string name="mySelfPaintActivity">Activity/mySelfPaintActivity</string>
+	<string name="phoneGapActivity">Activity/phoneGapActivity</string>
+	<string name="actionBarActivity">Activity/actionBarActivity</string>
+	
+	<string name="callblocker">G3Assistant/CallBlocker</string>
+    
+   <string name="destop_contact_pop_info">联系人资料</string>
+   <string name="destop_contact_pop_weiboinfo">微博资料</string>
+   <string name="desktop_contact_pop_calling">拨打电话</string>
+   <string name="desktop_contact_pop_send_msg">发消息</string>
+   <string name="desktop_contact_pop_msg_record">消息记录</string>
+   
+   <string name="string_show_media_iamge">显示图片资源</string>
+   <string name="string_add_blocked_nubmer_btn">添加屏蔽的号码</string>
+   <string name="string_input_blocked_number_hint">输入要屏蔽的号码</string>
+   
+   
+   <!-- 公用字符串 -->
+   <string name="string_util_btn_ok">确定</string>
+   <string name="string_util_btn_cancel">取消</string>
+   
+   <!-- Sina Weibo -->
+	<string name="delete_all">是否要删除这条微博？</string>
+    <string name="ok">是</string>
+    <string name="cancel">否</string>
+    <string name="send">发送</string>
+    <string name="close">关闭</string>
+    <string name="share_dialog_title">新浪微博</string>
+    <string name="please_login">请登录！</string>
+    <string name="send_sucess">分享成功！</string>
+    <string name="send_failed">分享失败！</string>
+    <string name="del_pic">是否删除图片？</string>
+   
+    <string name="menu_save">保存</string>
+</resources>

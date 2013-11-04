@@ -1,0 +1,226 @@
+// !$*UTF8*$!
+{
+	159671DA13E907BC0059ADF2 /* AlixPayDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AlixPayDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	159671E313E907C50059ADF2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	159671E413E907C50059ADF2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	159671F313E908180059ADF2 /* AlixPayDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {876, 541}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 492}";
+		};
+	};
+	159671F413E908180059ADF2 /* AlixPayDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {955, 2720}}";
+			sepNavSelRange = "{1429, 0}";
+			sepNavVisRange = "{542, 885}";
+		};
+	};
+	159671F513E908180059ADF2 /* AlixPayDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {876, 541}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 769}";
+		};
+	};
+	159671F613E908180059ADF2 /* AlixPayDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {930, 3772}}";
+			sepNavSelRange = "{5563, 6}";
+			sepNavVisRange = "{5172, 1308}";
+		};
+	};
+	1596729B13E909540059ADF2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 159671FE13E908250059ADF2 /* icon.png */;
+	};
+	159672AE13E909B40059ADF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159671F513E908180059ADF2 /* AlixPayDemoViewController.h */;
+		name = "AlixPayDemoViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	159672B313E909BE0059ADF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159671F313E908180059ADF2 /* AlixPayDemoAppDelegate.h */;
+		name = "AlixPayDemoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	1596733413E91F730059ADF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159671F413E908180059ADF2 /* AlixPayDemoAppDelegate.m */;
+		name = "AlixPayDemoAppDelegate.m: 68";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 542;
+	};
+	1596733513E91F730059ADF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 159671F613E908180059ADF2 /* AlixPayDemoViewController.m */;
+		name = "AlixPayDemoViewController.m: 200";
+		rLen = 6;
+		rLoc = 5563;
+		rType = 0;
+		vrLen = 1308;
+		vrLoc = 5172;
+	};
+	1596734D13E91FC20059ADF2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AlixPayDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleURLTypes,
+		);
+		name = "/Users/jingwen/Desktop/AlixPay_Current/AlixPayDemo/AlixPayDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	1596735713E91FEF0059ADF2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AlixPayDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleURLTypes,
+		);
+		name = "/Users/jingwen/Desktop/demo/AlixPayDemo/AlixPayDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	1D6058900D05DD3D006BFB54 /* AlixPayDemo */ = {
+		activeExec = 0;
+		executables = (
+			159671DA13E907BC0059ADF2 /* AlixPayDemo */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 159671DA13E907BC0059ADF2 /* AlixPayDemo */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AlixPayDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AlixPayDemo */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 159671E413E907C50059ADF2 /* Code sense */;
+		executables = (
+			159671DA13E907BC0059ADF2 /* AlixPayDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					698,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					658,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 334045166;
+			PBXWorkspaceStateSaveDate = 334045166;
+		};
+		perUserProjectItems = {
+			1596729B13E909540059ADF2 /* PBXBookmark */ = 1596729B13E909540059ADF2 /* PBXBookmark */;
+			159672AE13E909B40059ADF2 /* PBXTextBookmark */ = 159672AE13E909B40059ADF2 /* PBXTextBookmark */;
+			159672B313E909BE0059ADF2 /* PBXTextBookmark */ = 159672B313E909BE0059ADF2 /* PBXTextBookmark */;
+			1596733413E91F730059ADF2 /* PBXTextBookmark */ = 1596733413E91F730059ADF2 /* PBXTextBookmark */;
+			1596733513E91F730059ADF2 /* PBXTextBookmark */ = 1596733513E91F730059ADF2 /* PBXTextBookmark */;
+			1596734D13E91FC20059ADF2 /* PlistBookmark */ = 1596734D13E91FC20059ADF2 /* PlistBookmark */;
+			1596735713E91FEF0059ADF2 /* PlistBookmark */ = 1596735713E91FEF0059ADF2 /* PlistBookmark */;
+		};
+		sourceControlManager = 159671E313E907C50059ADF2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+颜色制订
+Author:HuRonghua cnjxhrh_gmail_com
+-->
+<resources>
+
+    <color name="snow">#FFFAFA</color>
+    <color name="LemonChiffon">#FFFACD</color>
+    <color name="FloralWhite">#FFFAF0</color>
+    <color name="LawnGreen">#7CFC00</color>
+    <color name="blue">#ff0054cf</color>
+    <color name="Ivory">#FFFFF0</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="Gold1">#FFD700</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="greey">#cccccc</color>
+    <color name="topbar">#CCCCCC</color> 
+    
+    
+    <color name="transparent">#00000000</color>
+    <color name="text_num_gray">#333</color>
+    <color name="dialog_title_blue">#9CCCF7</color>
+
+</resources>

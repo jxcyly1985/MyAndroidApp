@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffffff"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff3e79bf"
+        android:orientation="horizontal"
+        android:padding="5dip">
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sina_weibo_logo"/>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="转发至新浪微博"
+            android:textColor="@color/white"
+            android:shadowColor="@color/black"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="1"
+            android:paddingLeft="5dip"></TextView>
+        <LinearLayout android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right">
+            <Button android:id="@+id/id_sina_weibo_share_button"
+             android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="转发"
+            android:textSize="16sp"
+            android:background="#ff3a6fb0">
+        </Button>
+        </LinearLayout>
+        
+    </LinearLayout>
+    
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="200dip"
+        android:orientation="vertical"
+        android:padding="10dip">
+        <LinearLayout android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+             android:background="@drawable/corners_bg"
+             android:orientation="vertical"
+             android:padding="10dip">
+            <EditText android:id="@+id/id_sina_weibo_share_content_edit_text"
+			android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:textColor="@color/black"
+            android:background="@null"
+			android:layout_weight="1"
+			android:singleLine="false"
+			android:gravity="top|left"
+			android:maxLength="140">
+			</EditText>
+        
+        <LinearLayout android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right">
+            <TextView android:id="@+id/id_sina_weibo_share_count_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="还可以输入 140 字"></TextView>
+        </LinearLayout>
+        </LinearLayout>
+        
+    </LinearLayout>
+    
+
+</LinearLayout>

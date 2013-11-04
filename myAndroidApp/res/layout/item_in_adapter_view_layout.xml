@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dip"
+    android:background="#ffffffff"
+    android:orientation="horizontal">
+
+    <LinearLayout 
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1">
+         <TextView android:id="@+id/id_item_ctrl_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/title_font_size">
+         </TextView>
+         <TextView android:id="@+id/id_item_ctrl_2"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textSize="@dimen/content_font_size"
+             android:paddingLeft="10dip">
+         </TextView>
+         
+         <!-- <Button android:id="@+id/id_item_ctrl_4"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:focusable="false"
+             android:clickable="false"
+             android:text="测试按钮">
+         </Button> -->   
+          
+         </LinearLayout>
+    
+    <ImageView android:id="@+id/id_item_ctrl_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:background="@drawable/desktop_pop_call">
+      </ImageView>
+      
+    
+  
+
+</LinearLayout>

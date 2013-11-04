@@ -1,0 +1,27 @@
+/*
+============================================================================
+ Name		: AppDemo.rss
+ Author	  : Mark15021
+ Copyright   : Your copyright notice
+ Description : This file contains the application registration resource.
+============================================================================
+*/
+
+#include "AppDemo.hrh"
+#include "AppDemo.rls"
+#include <appinfo.rh>
+#include <AppDemo_0xED46D97D.rsg>
+
+UID2 KUidAppRegistrationResourceFile
+UID3 _UID3
+
+RESOURCE APP_REGISTRATION_INFO
+	{
+	app_file="AppDemo_0xED46D97D";
+	localisable_resource_file =  qtn_loc_resource_file_1;
+	localisable_resource_id = R_LOCALISABLE_APP_INFO;
+
+	embeddability=KAppNotEmbeddable;
+	newfile=KAppDoesNotSupportNewFile;
+	}
+
